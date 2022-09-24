@@ -1,0 +1,14 @@
+author: JD
+core-version: >=5.1.14
+created: 20180326154440385
+creator: jd
+dependents: $:/themes/tiddlywiki/vanilla
+description: Not-quite-there-yet quantum paper for TW5
+list: contents readme
+modified: 20180727131047369
+modifier: jd
+name: Material
+plugin-type: theme
+title: $:/themes/jd/Material
+type: application/json
+version: 0.4.14
